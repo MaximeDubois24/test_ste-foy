@@ -2,3 +2,4 @@
 
 ### Contributeurs été 2023
 Charles Grondin  
+Laurent Faggin
