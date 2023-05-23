@@ -6,3 +6,4 @@ Laurent Faggin
 David Fournel-Vezina  
 Samuel Blackwell  
 Félix Gason
+Antoine Charlebois
