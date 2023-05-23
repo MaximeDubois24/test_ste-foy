@@ -6,3 +6,5 @@ Laurent Faggin
 David Fournel-Vezina  
 Samuel Blackwell  
 Félix Gason
+Anthony Provencher
+
