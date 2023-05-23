@@ -4,5 +4,5 @@
 Charles Grondin  
 Laurent Faggin  
 David Fournel-Vezina  
-Samuel Blackwell
+Samuel Blackwell  
 Félix Gason
