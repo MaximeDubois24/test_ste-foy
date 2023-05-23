@@ -5,6 +5,6 @@ Charles Grondin
 Laurent Faggin  
 David Fournel-Vezina  
 Samuel Blackwell  
-Félix Gason
-Anthony Provencher
+Félix Gason  
+Anthony Provencher  
 
