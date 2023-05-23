@@ -9,4 +9,5 @@ Félix Gason
 Antoine Charlebois  
 Anthony Provencher  
 Cédric Pelchat-St-Pierre  
-Napoleon Dautant
+Napoleon Dautant  
+Changfeng ZHAO  
