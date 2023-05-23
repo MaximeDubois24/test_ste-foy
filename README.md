@@ -8,3 +8,4 @@ Samuel Blackwell
 Félix Gason  
 Anthony Provencher  
 Cédric Pelchat-St-Pierre  
+Jeoffrey Marceau
