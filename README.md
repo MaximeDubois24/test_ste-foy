@@ -7,3 +7,6 @@ David Fournel-Vezina
 Samuel Blackwell  
 Félix Gason
 Antoine Charlebois
+Anthony Provencher  
+Cédric Pelchat-St-Pierre  
+
