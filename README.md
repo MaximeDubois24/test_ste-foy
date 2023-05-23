@@ -2,5 +2,5 @@
 
 ### Contributeurs été 2023
 Charles Grondin  
-Laurent Faggin
+Laurent Faggin  
 David Fournel-Vezina
