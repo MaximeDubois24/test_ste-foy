@@ -2,5 +2,9 @@
 
 ### Contributeurs été 2023
 Charles Grondin  
-Laurent Faggin
-Cédric Pelchat-St-Pierre
+Laurent Faggin  
+David Fournel-Vezina  
+Samuel Blackwell  
+Félix Gason  
+Anthony Provencher  
+Cédric Pelchat-St-Pierre  
