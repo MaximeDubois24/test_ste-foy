@@ -11,3 +11,4 @@ Anthony Provencher
 Cédric Pelchat-St-Pierre  
 Napoleon Dautant  
 Changfeng ZHAO  
+Jeoffrey Marceau  
