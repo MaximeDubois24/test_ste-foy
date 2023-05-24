@@ -12,3 +12,4 @@ Cédric Pelchat-St-Pierre
 Napoleon Dautant  
 Changfeng ZHAO  
 Jeoffrey Marceau  
+Thomas Tenekeu Tene
