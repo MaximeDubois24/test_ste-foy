@@ -14,4 +14,4 @@ Changfeng ZHAO
 Jeoffrey Marceau  
 Thomas Tenekeu Tene  
 Bryen Savard
-Zacchary Gagnon
+Zachary Gagnon
