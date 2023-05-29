@@ -17,3 +17,4 @@ Bryen Savard
 Zachary Gagnon  
 Jeff hebert  
 Nathan Vezina  
+Bryan Gagne-Plante
