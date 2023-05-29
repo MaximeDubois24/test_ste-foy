@@ -13,6 +13,6 @@ Napoleon Dautant
 Changfeng ZHAO  
 Jeoffrey Marceau  
 Thomas Tenekeu Tene  
-Bryen Savard
-
-Zachary Gagnon
+Bryen Savard  
+Zachary Gagnon  
+Jeff hebert  
