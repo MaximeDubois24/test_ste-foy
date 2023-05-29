@@ -16,3 +16,4 @@ Thomas Tenekeu Tene
 Bryen Savard  
 Zachary Gagnon  
 Jeff hebert  
+Nathan Vezina
